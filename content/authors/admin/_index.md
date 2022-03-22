@@ -74,4 +74,4 @@ I am a PhD candidate at the Computer Science Unit, GSSI.  Previously, I earned m
 
 You can reach me at samira.silva@gssi.it
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
