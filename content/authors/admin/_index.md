@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate at the Computer Science Unit, GSSI.  Previously, I earned my MSc degree from Federal University of Minas Gerais ({{< staticref "https://www.ufmg.br" "newtab" >}}UFMG{{< /staticref >}}) and BS degree from Federal University of Ouro Preto ({{< staticref "https://ufop.br/" "newtab" >}}UFOP{{< /staticref >}}), both in Computer Science.I also studied for one year at Porto University, Porto, Portugal, during a study abroad program sponsored by the Brazilian government during my undergraduate. Also, I have worked as a Professor at UFOP, University of Itauna (UIT) and University of the Estate of Minas Gerais (UEMG) from 2016-2020. My research interests include Software Engineering, Software Testing and Self-adaptive Systems.
+I am a PhD candidate at the Computer Science Unit, GSSI.  Previously, I earned my MSc degree from Federal University of Minas Gerais ({{< staticref "https://www.ufmg.br" "newtab" >}}UFMG{{< /staticref >}}) and BS degree from Federal University of Ouro Preto ({{< staticref "https://ufop.br/" "newtab" >}}UFOP{{< /staticref >}}), both in Computer Science.I also studied for one year at Porto University, Porto, Portugal, during a study abroad program sponsored by the Brazilian government during my undergraduate. Also, I have worked as a Professor at UFOP, University of Itauna (UIT) and University of the State of Minas Gerais (UEMG) from 2016-2020. My research interests include Software Engineering, Software Testing and Self-adaptive Systems.
 
 You can reach me at samira.silva@gssi.it
 
