@@ -38,7 +38,7 @@ abstract: Testing in the field is gaining momentum, as a means to identify those
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
