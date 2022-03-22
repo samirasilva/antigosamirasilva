@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate at the Computer Science Unit, GSSI.  Previously, I earned my MSc degree from Federal University of Minas Gerais (UFMG) and BS degree from Federal University of Ouro Preto (UFOP), both in Computer Science.I also studied for one year at Porto University, Porto, Portugal, during a study abroad program sponsored by the Brazilian government during my undergraduate. Also, I have worked as a Professor at UFOP, University of Itauna (UIT) and University of the Estate of Minas Gerais (UEMG) from 2016-2020. My research interests include Software Engineering, Software Testing and Self-adaptive Systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+You can reach me at samira.silva@gssi.it
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
