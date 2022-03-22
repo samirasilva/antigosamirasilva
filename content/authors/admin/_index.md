@@ -26,8 +26,8 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science 
-    institution: Stanford University
-    year: ongoing
+    institution: Gran Sasso Science Institute (GSSI)
+    year: (Ongoing)
   - course: Master Degree in Computer Science
     institution: Federal University of Minas Gerais
     year: 2018
