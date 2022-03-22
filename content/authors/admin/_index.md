@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Samira Silva
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Gran Sasso Science Institute (GSSI)
+  url: https://www.gssi.it/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Engineering
+- Software Testing
+- Self-adaptive Systems
 
 # Education to show in About widget
 education:
