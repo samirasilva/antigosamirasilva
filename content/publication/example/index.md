@@ -10,9 +10,9 @@ authors:
 - Patrizio Pelliccione
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -38,7 +38,7 @@ abstract: Testing in the field is gaining momentum, as a means to identify those
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
