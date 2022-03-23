@@ -1,3 +1,3 @@
 ---
-permalink: content/home/index.md
+permalink: /content/home/index.md
 ---
