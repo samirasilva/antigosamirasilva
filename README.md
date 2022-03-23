@@ -1,3 +1,1 @@
----
-permalink: /:content/:title/:home/:title/
----
+nothing to show
